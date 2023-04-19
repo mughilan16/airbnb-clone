@@ -7,6 +7,7 @@ function Banner() {
       <Image
         src="https://links.papareact.com/0fm"
         fill={true}
+        alt="banner image"
         style={{ objectFit: "cover" }}
       />
       <div className="absolute top-1/2 w-full text-center">
